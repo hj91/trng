@@ -1,0 +1,32 @@
+{
+  "name": "trng",
+  "version": "0.0.1",
+  "description": "A True Random Number Generator (TRNG) module for Node.js that generates highly random data by combining multiple sources of entropy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hj91/trng.git"
+  },
+  "author": "Harshad Joshi",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hj91/trng/issues"
+  },
+  "homepage": "https://github.com/hj91/trng#readme",
+  "keywords": [
+    "trng",
+    "random",
+    "random-number",
+    "true-random",
+    "entropy",
+    "hexadecimal",
+    "random-data",
+    "random-string",
+    "crypto",
+    "random-generator"
+  ]
+}
+
